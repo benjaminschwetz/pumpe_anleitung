@@ -27,6 +27,8 @@ Wenn die Erde trocken ist muss man gießen, aber woher soll der micro:bit wissen
 
 ### Programmieren
 
+![Programm](code/kallibrieren.png)
+
 ### Aufgabe
 
 Ermittle die Messwerte für die folgenden Stoffe:
