@@ -17,15 +17,27 @@ Außerdem (aus dem Starterset):
 - USB-Kabel
 - Batteriebox für 2 AA Batterien
 
-## Den Feuchtigkeitssensor kallibrieren
+## Der Feuchtigkeitssensor
 
-Was ist feucht, was ist trocken? 
+Wenn die Erde trocken ist muss man gießen, aber woher soll der micro:bit wissen, wann es soweit ist? Der Chip kann Feuchtigkeit nicht direkt wahrnehmen, wir brauchen einen Feuchtigkeitssenor. Dieser Sensor nutzt die Tatsache, dass feuchte Erde den Strom besser leitet als trockene und der micro:bit übersetzt diese Leitfähigkeit dann in eine Zahl zwischen 0 und 1024: 1024 bedeutet dass kein Strom fließt, 0 misst man bei einem perfekten Leiter. 
 
 ### Schaltplan
 
 ![Schaltplan](schaltpläne/kallibrieren.png)
 
 ### Programmieren
+
+### Aufgabe
+
+Ermittle die Messwerte für die folgenden Stoffe:
+
+- Luft
+- Leitungswasser
+- Salzwasser
+- trockene Erde
+- feuchte Erde
+
+Notiere die Ergebnisse für den Aufbau der Anlage.
 
 ## Die halbautomatische Bewässerungsanlage
 
