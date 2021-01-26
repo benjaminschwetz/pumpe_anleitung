@@ -23,7 +23,10 @@ Wenn die Erde trocken ist muss man gießen, aber woher soll der micro:bit wissen
 
 ### Schaltplan
 
-![Schaltplan](schaltpläne/kallibrieren.png)
+Das gelbe Kabel verbindet A0 des Feuchtigkeitssensors mit dem 0-Pin des micro:bit. Das rote Kabel verbindet VCC des Feuchtigkeitssensors mit dem 2-Pin des micro:bit. 
+Das schwarze Kabel mit der Krokodilklemme vom Batteriefach wird mit GND des micro:bit verbunden. Ein weiteres schwarzes Kabel wird mit GND des Feuchtigkeitssensors verbunden.
+
+![Schaltplan](schaltpläne/kallibrieren.jpg)
 
 ### Programmieren
 
