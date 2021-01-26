@@ -30,6 +30,8 @@ Das schwarze Kabel mit der Krokodilklemme vom Batteriefach wird mit GND des micr
 
 ### Programmieren
 
+Lade den folgenden Code auf den micro:bit. Beim drücken des A-Knopfes zeigt der Display den Messwert am Sensor an.
+
 ![Programm](code/kallibrieren.png)
 
 ### Aufgabe
@@ -42,7 +44,7 @@ Ermittle die Messwerte für die folgenden Stoffe:
 - trockene Erde
 - feuchte Erde
 
-Notiere die Ergebnisse für den Aufbau der Anlage.
+Tauche dafür den Feuchtigkeitsensor in das jeweilige medium und notiere die Ergebnisse für später.
 
 ## Die halbautomatische Bewässerungsanlage
 
