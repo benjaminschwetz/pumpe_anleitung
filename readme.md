@@ -51,6 +51,7 @@ Tauche dafür den Feuchtigkeitsensor in das jeweilige medium und notiere die Erg
 ### Schaltplan
 
 ![Schaltplan](https://www.myarduino.dk/wp-content/uploads/2019/09/Automatisk_vanding.jpg)
+*Quelle: myarduino.dk*
 
 ### Programmieren
 
@@ -58,7 +59,7 @@ Tauche dafür den Feuchtigkeitsensor in das jeweilige medium und notiere die Erg
 
 ### Schaltplan
 
-![Schaltplan](schaltpläne/automatisch.png)
+Wie bei der halbautomatischen Anlage.
 
 ### Programmieren
 
